@@ -1,0 +1,10 @@
+Eye movement
+Light intensity
+Speed
+Angle
+Humidity 
+Road lanes
+Text from images
+Speech
+Network data
+Body language

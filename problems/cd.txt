@@ -1,0 +1,3 @@
+#lang racket
+(current-directory)
+;#<path:C:\Users\siprad\>
